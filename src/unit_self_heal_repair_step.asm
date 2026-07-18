@@ -34,4 +34,4 @@ hack 0x0062E9EF
     add eax, ecx
     mov ecx, esi            ; "this" pointer for following ObjectClass::Health_Ratio call
     jmp 0x0062E9F5
-	
+
