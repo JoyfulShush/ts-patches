@@ -333,6 +333,7 @@ ifndef VINIFERA
 OBJS += src/buildingtype_initialization.o
 OBJS += src/cache_alot.o
 OBJS += src/buildlimit_fix.o
+OBJS += src/unit_self_heal_repair_step.o
 
 # Only included in: MOD_TI
 ifdef MOD_TI
